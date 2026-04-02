@@ -1,5 +1,35 @@
 [
   {
+    "id": "20260402-01",
+    "date": "2026-04-02",
+    "eventType": "store",
+    "storeName": "TSUTAYA北千住",
+    "region": "東京",
+    "placement": 1,
+    "deckName": "赤緑クリーク",
+    "playerName": "ともや"
+  },
+  {
+    "id": "20260402-02",
+    "date": "2026-04-02",
+    "eventType": "store",
+    "storeName": null,
+    "region": null,
+    "placement": 1,
+    "deckName": "紫エネル",
+    "playerName": "ʞ"
+  },
+  {
+    "id": "20260402-03",
+    "date": "2026-04-02",
+    "eventType": "store",
+    "storeName": null,
+    "region": null,
+    "placement": 1,
+    "deckName": "赤黒サボ",
+    "playerName": "みどりこんにゃく"
+  },
+  {
     "id": "20260401-01",
     "date": "2026-04-01",
     "eventType": "store",
@@ -13,11 +43,61 @@
     "id": "20260401-02",
     "date": "2026-04-01",
     "eventType": "flagship",
-    "storeName": "フラッグシップバトル",
+    "storeName": null,
     "region": "東京",
     "placement": 1,
     "deckName": "緑ミホーク",
     "playerName": "タニー"
+  },
+  {
+    "id": "20260401-03",
+    "date": "2026-04-01",
+    "eventType": "flagship",
+    "storeName": "コーギーアール名古屋",
+    "region": "愛知",
+    "placement": 1,
+    "deckName": "緑紫ルフィ",
+    "playerName": "かわはら"
+  },
+  {
+    "id": "20260401-04",
+    "date": "2026-04-01",
+    "eventType": "flagship",
+    "storeName": "コーギーアール名古屋",
+    "region": "愛知",
+    "placement": 1,
+    "deckName": "紫エネル",
+    "playerName": "み"
+  },
+  {
+    "id": "20260401-05",
+    "date": "2026-04-01",
+    "eventType": "store",
+    "storeName": null,
+    "region": "大阪",
+    "placement": 1,
+    "deckName": "空島ルフィ",
+    "playerName": null
+  },
+  {
+    "id": "20260401-06",
+    "date": "2026-04-01",
+    "eventType": "store",
+    "storeName": null,
+    "region": "東京",
+    "placement": 1,
+    "deckName": "黒黄モリア",
+    "playerName": null
+  },
+  {
+    "id": "20260401-07",
+    "date": "2026-04-01",
+    "eventType": "store",
+    "storeName": null,
+    "region": "福岡",
+    "placement": 1,
+    "deckName": "赤青ルーシー",
+    "playerName": null
   },
   {
     "id": "20260331-01",
@@ -33,16 +113,47 @@
     "id": "20260331-02",
     "date": "2026-03-31",
     "eventType": "store",
-    "storeName": "TCGショップ秋葉原",
+    "storeName": null,
     "region": "東京",
     "placement": 1,
     "deckName": "紫エネル",
     "playerName": null
   },
   {
+    "id": "20260331-03",
+    "date": "2026-03-31",
+    "eventType": "store",
+    "storeName": null,
+    "region": "大阪",
+    "placement": 1,
+    "deckName": "黒イム",
+    "playerName": null
+  },
+  {
+    "id": "20260331-04",
+    "date": "2026-03-31",
+    "eventType": "flagship",
+    "storeName": null,
+    "region": "東京",
+    "placement": 1,
+    "deckName": "赤青ルーシー",
+    "playerName": null
+  },
+  {
+    "id": "20260331-05",
+    "date": "2026-03-31",
+    "eventType": "store",
+    "storeName": null,
+    "region": "名古屋",
+    "placement": 1,
+    "deckName": "赤紫シュガー",
+    "playerName": null
+  },
+  {
     "id": "20260330-01",
     "date": "2026-03-30",
     "eventType": "store",
+    "storeName": null,
     "region": "大阪",
     "placement": 1,
     "deckName": "赤青ルーシー",
@@ -52,15 +163,37 @@
     "id": "20260330-02",
     "date": "2026-03-30",
     "eventType": "store",
+    "storeName": null,
     "region": "名古屋",
     "placement": 1,
     "deckName": "黒黄モリア",
     "playerName": null
   },
   {
+    "id": "20260330-03",
+    "date": "2026-03-30",
+    "eventType": "store",
+    "storeName": null,
+    "region": "東京",
+    "placement": 1,
+    "deckName": "空島ルフィ",
+    "playerName": null
+  },
+  {
+    "id": "20260330-04",
+    "date": "2026-03-30",
+    "eventType": "flagship",
+    "storeName": null,
+    "region": "大阪",
+    "placement": 1,
+    "deckName": "紫エネル",
+    "playerName": null
+  },
+  {
     "id": "20260329-01",
     "date": "2026-03-29",
     "eventType": "store",
+    "storeName": null,
     "region": "福岡",
     "placement": 1,
     "deckName": "空島ルフィ",
@@ -70,15 +203,37 @@
     "id": "20260329-02",
     "date": "2026-03-29",
     "eventType": "flagship",
+    "storeName": null,
     "region": "東京",
     "placement": 1,
     "deckName": "紫エネル",
     "playerName": null
   },
   {
+    "id": "20260329-03",
+    "date": "2026-03-29",
+    "eventType": "store",
+    "storeName": null,
+    "region": "大阪",
+    "placement": 1,
+    "deckName": "緑紫ルフィ",
+    "playerName": null
+  },
+  {
+    "id": "20260329-04",
+    "date": "2026-03-29",
+    "eventType": "store",
+    "storeName": null,
+    "region": "東京",
+    "placement": 1,
+    "deckName": "赤青ルーシー",
+    "playerName": null
+  },
+  {
     "id": "20260328-01",
     "date": "2026-03-28",
     "eventType": "store",
+    "storeName": null,
     "region": "東京",
     "placement": 1,
     "deckName": "黒イム",
@@ -88,15 +243,37 @@
     "id": "20260328-02",
     "date": "2026-03-28",
     "eventType": "store",
+    "storeName": null,
     "region": "大阪",
     "placement": 1,
     "deckName": "赤青ルーシー",
     "playerName": null
   },
   {
+    "id": "20260328-03",
+    "date": "2026-03-28",
+    "eventType": "store",
+    "storeName": null,
+    "region": "名古屋",
+    "placement": 1,
+    "deckName": "空島ルフィ",
+    "playerName": null
+  },
+  {
+    "id": "20260328-04",
+    "date": "2026-03-28",
+    "eventType": "flagship",
+    "storeName": null,
+    "region": "福岡",
+    "placement": 1,
+    "deckName": "黒ティーチ",
+    "playerName": null
+  },
+  {
     "id": "20260327-01",
     "date": "2026-03-27",
     "eventType": "store",
+    "storeName": null,
     "region": "東京",
     "placement": 1,
     "deckName": "空島ルフィ",
@@ -106,15 +283,27 @@
     "id": "20260327-02",
     "date": "2026-03-27",
     "eventType": "store",
+    "storeName": null,
     "region": "名古屋",
     "placement": 1,
     "deckName": "紫エネル",
     "playerName": null
   },
   {
+    "id": "20260327-03",
+    "date": "2026-03-27",
+    "eventType": "store",
+    "storeName": null,
+    "region": "大阪",
+    "placement": 1,
+    "deckName": "黒黄モリア",
+    "playerName": null
+  },
+  {
     "id": "20260326-01",
     "date": "2026-03-26",
     "eventType": "store",
+    "storeName": null,
     "region": "大阪",
     "placement": 1,
     "deckName": "黒ティーチ",
@@ -124,18 +313,200 @@
     "id": "20260326-02",
     "date": "2026-03-26",
     "eventType": "store",
+    "storeName": null,
     "region": "東京",
     "placement": 1,
     "deckName": "緑紫ルフィ",
     "playerName": null
   },
   {
+    "id": "20260326-03",
+    "date": "2026-03-26",
+    "eventType": "store",
+    "storeName": null,
+    "region": "福岡",
+    "placement": 1,
+    "deckName": "紫エネル",
+    "playerName": null
+  },
+  {
     "id": "20260325-01",
     "date": "2026-03-25",
     "eventType": "store",
+    "storeName": null,
     "region": "福岡",
     "placement": 1,
     "deckName": "空島ルフィ",
+    "playerName": null
+  },
+  {
+    "id": "20260325-02",
+    "date": "2026-03-25",
+    "eventType": "store",
+    "storeName": null,
+    "region": "東京",
+    "placement": 1,
+    "deckName": "赤青ルーシー",
+    "playerName": null
+  },
+  {
+    "id": "20260325-03",
+    "date": "2026-03-25",
+    "eventType": "flagship",
+    "storeName": null,
+    "region": "名古屋",
+    "placement": 1,
+    "deckName": "空島ルフィ",
+    "playerName": null
+  },
+  {
+    "id": "20260324-01",
+    "date": "2026-03-24",
+    "eventType": "store",
+    "storeName": null,
+    "region": "東京",
+    "placement": 1,
+    "deckName": "紫エネル",
+    "playerName": null
+  },
+  {
+    "id": "20260324-02",
+    "date": "2026-03-24",
+    "eventType": "store",
+    "storeName": null,
+    "region": "大阪",
+    "placement": 1,
+    "deckName": "黒イム",
+    "playerName": null
+  },
+  {
+    "id": "20260324-03",
+    "date": "2026-03-24",
+    "eventType": "store",
+    "storeName": null,
+    "region": "名古屋",
+    "placement": 1,
+    "deckName": "赤紫ロジャー",
+    "playerName": null
+  },
+  {
+    "id": "20260323-01",
+    "date": "2026-03-23",
+    "eventType": "store",
+    "storeName": null,
+    "region": "東京",
+    "placement": 1,
+    "deckName": "空島ルフィ",
+    "playerName": null
+  },
+  {
+    "id": "20260323-02",
+    "date": "2026-03-23",
+    "eventType": "store",
+    "storeName": null,
+    "region": "大阪",
+    "placement": 1,
+    "deckName": "赤黄ボニー",
+    "playerName": null
+  },
+  {
+    "id": "20260323-03",
+    "date": "2026-03-23",
+    "eventType": "flagship",
+    "storeName": null,
+    "region": "東京",
+    "placement": 1,
+    "deckName": "紫エネル",
+    "playerName": null
+  },
+  {
+    "id": "20260322-01",
+    "date": "2026-03-22",
+    "eventType": "store",
+    "storeName": null,
+    "region": "東京",
+    "placement": 1,
+    "deckName": "赤青ルーシー",
+    "playerName": null
+  },
+  {
+    "id": "20260322-02",
+    "date": "2026-03-22",
+    "eventType": "store",
+    "storeName": null,
+    "region": "福岡",
+    "placement": 1,
+    "deckName": "黒黄モリア",
+    "playerName": null
+  },
+  {
+    "id": "20260322-03",
+    "date": "2026-03-22",
+    "eventType": "store",
+    "storeName": null,
+    "region": "名古屋",
+    "placement": 1,
+    "deckName": "空島ルフィ",
+    "playerName": null
+  },
+  {
+    "id": "20260321-01",
+    "date": "2026-03-21",
+    "eventType": "store",
+    "storeName": null,
+    "region": "大阪",
+    "placement": 1,
+    "deckName": "紫エネル",
+    "playerName": null
+  },
+  {
+    "id": "20260321-02",
+    "date": "2026-03-21",
+    "eventType": "store",
+    "storeName": null,
+    "region": "東京",
+    "placement": 1,
+    "deckName": "黒ティーチ",
+    "playerName": null
+  },
+  {
+    "id": "20260321-03",
+    "date": "2026-03-21",
+    "eventType": "flagship",
+    "storeName": null,
+    "region": "大阪",
+    "placement": 1,
+    "deckName": "赤青ルーシー",
+    "playerName": null
+  },
+  {
+    "id": "20260320-01",
+    "date": "2026-03-20",
+    "eventType": "store",
+    "storeName": null,
+    "region": "東京",
+    "placement": 1,
+    "deckName": "空島ルフィ",
+    "playerName": null
+  },
+  {
+    "id": "20260320-02",
+    "date": "2026-03-20",
+    "eventType": "store",
+    "storeName": null,
+    "region": "名古屋",
+    "placement": 1,
+    "deckName": "青黄エース",
+    "playerName": null
+  },
+  {
+    "id": "20260320-03",
+    "date": "2026-03-20",
+    "eventType": "store",
+    "storeName": null,
+    "region": "福岡",
+    "placement": 1,
+    "deckName": "黄カルガラ",
     "playerName": null
   }
 ]
