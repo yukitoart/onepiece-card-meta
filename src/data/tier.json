@@ -1,0 +1,106 @@
+[
+  {
+    "deckName": "空島ルフィ",
+    "tier": "S",
+    "color": "green",
+    "usageRate": 18.5,
+    "trend": "stable",
+    "description": "現環境の2強。圧倒的なパワーと安定性"
+  },
+  {
+    "deckName": "紫エネル",
+    "tier": "S",
+    "color": "purple",
+    "usageRate": 16.2,
+    "trend": "up",
+    "previousTier": "Tier1.5",
+    "description": "Tier1.5→Tier1に昇格。2強環境の一角"
+  },
+  {
+    "deckName": "赤青ルーシー",
+    "tier": "A",
+    "color": "multi",
+    "usageRate": 12.8,
+    "trend": "stable",
+    "description": "4月環境で最もおすすめ（ナツメ評）"
+  },
+  {
+    "deckName": "黒黄モリア",
+    "tier": "A",
+    "color": "multi",
+    "usageRate": 9.5,
+    "trend": "up",
+    "previousTier": "Tier2",
+    "description": "ループデッキ。Tier2→Tier1.5に急上昇"
+  },
+  {
+    "deckName": "黒イム",
+    "tier": "A",
+    "color": "black",
+    "usageRate": 8.3,
+    "trend": "up",
+    "previousTier": "Tier2",
+    "description": "Tier2→Tier1.5に上昇"
+  },
+  {
+    "deckName": "黒ティーチ",
+    "tier": "A",
+    "color": "black",
+    "usageRate": 7.1,
+    "trend": "up",
+    "previousTier": "Tier2.5",
+    "description": "Tier2.5→Tier1.5に大幅上昇"
+  },
+  {
+    "deckName": "緑紫ルフィ",
+    "tier": "A",
+    "color": "multi",
+    "usageRate": 6.8,
+    "trend": "new",
+    "description": "圏外→Tier1.5に新登場"
+  },
+  {
+    "deckName": "黄カルガラ",
+    "tier": "B",
+    "color": "yellow",
+    "usageRate": 5.2,
+    "trend": "down",
+    "previousTier": "Tier1.5",
+    "description": "Tier1.5→Tier2に下落"
+  },
+  {
+    "deckName": "赤紫ロジャー",
+    "tier": "B",
+    "color": "multi",
+    "usageRate": 4.1,
+    "trend": "up",
+    "previousTier": "Tier2.5",
+    "description": "Tier2.5→Tier2に上昇"
+  },
+  {
+    "deckName": "赤黄ボニー",
+    "tier": "B",
+    "color": "multi",
+    "usageRate": 3.8,
+    "trend": "up",
+    "previousTier": "Tier2.5",
+    "description": "Tier2.5→Tier2に上昇"
+  },
+  {
+    "deckName": "青黄エース",
+    "tier": "B",
+    "color": "multi",
+    "usageRate": 3.5,
+    "trend": "up",
+    "previousTier": "Tier2.5",
+    "description": "Tier2.5→Tier2に上昇"
+  },
+  {
+    "deckName": "黄エネル",
+    "tier": "B",
+    "color": "yellow",
+    "usageRate": 2.9,
+    "trend": "new",
+    "description": "圏外→Tier2に新登場"
+  }
+]

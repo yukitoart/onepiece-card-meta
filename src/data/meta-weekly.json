@@ -1,0 +1,67 @@
+[
+  {
+    "week": "3月第1週",
+    "weekStart": "2026-03-02",
+    "data": [
+      { "deckName": "空島ルフィ", "usageRate": 20.0, "winCount": 8 },
+      { "deckName": "紫エネル", "usageRate": 10.5, "winCount": 4 },
+      { "deckName": "赤青ルーシー", "usageRate": 14.0, "winCount": 5 },
+      { "deckName": "黒黄モリア", "usageRate": 5.0, "winCount": 2 },
+      { "deckName": "黒イム", "usageRate": 4.5, "winCount": 1 },
+      { "deckName": "黒ティーチ", "usageRate": 3.0, "winCount": 1 },
+      { "deckName": "黄カルガラ", "usageRate": 8.0, "winCount": 3 }
+    ]
+  },
+  {
+    "week": "3月第2週",
+    "weekStart": "2026-03-09",
+    "data": [
+      { "deckName": "空島ルフィ", "usageRate": 19.5, "winCount": 7 },
+      { "deckName": "紫エネル", "usageRate": 12.0, "winCount": 5 },
+      { "deckName": "赤青ルーシー", "usageRate": 13.5, "winCount": 5 },
+      { "deckName": "黒黄モリア", "usageRate": 6.5, "winCount": 3 },
+      { "deckName": "黒イム", "usageRate": 5.5, "winCount": 2 },
+      { "deckName": "黒ティーチ", "usageRate": 4.0, "winCount": 1 },
+      { "deckName": "黄カルガラ", "usageRate": 7.0, "winCount": 2 }
+    ]
+  },
+  {
+    "week": "3月第3週",
+    "weekStart": "2026-03-16",
+    "data": [
+      { "deckName": "空島ルフィ", "usageRate": 19.0, "winCount": 8 },
+      { "deckName": "紫エネル", "usageRate": 14.0, "winCount": 6 },
+      { "deckName": "赤青ルーシー", "usageRate": 13.0, "winCount": 5 },
+      { "deckName": "黒黄モリア", "usageRate": 8.0, "winCount": 3 },
+      { "deckName": "黒イム", "usageRate": 6.5, "winCount": 2 },
+      { "deckName": "黒ティーチ", "usageRate": 5.5, "winCount": 2 },
+      { "deckName": "黄カルガラ", "usageRate": 6.0, "winCount": 2 }
+    ]
+  },
+  {
+    "week": "3月第4週",
+    "weekStart": "2026-03-23",
+    "data": [
+      { "deckName": "空島ルフィ", "usageRate": 18.5, "winCount": 7 },
+      { "deckName": "紫エネル", "usageRate": 15.5, "winCount": 7 },
+      { "deckName": "赤青ルーシー", "usageRate": 12.5, "winCount": 5 },
+      { "deckName": "黒黄モリア", "usageRate": 9.0, "winCount": 4 },
+      { "deckName": "黒イム", "usageRate": 7.5, "winCount": 3 },
+      { "deckName": "黒ティーチ", "usageRate": 6.5, "winCount": 3 },
+      { "deckName": "黄カルガラ", "usageRate": 5.5, "winCount": 2 }
+    ]
+  },
+  {
+    "week": "3月第5週",
+    "weekStart": "2026-03-30",
+    "data": [
+      { "deckName": "空島ルフィ", "usageRate": 18.5, "winCount": 8 },
+      { "deckName": "紫エネル", "usageRate": 16.2, "winCount": 7 },
+      { "deckName": "赤青ルーシー", "usageRate": 12.8, "winCount": 5 },
+      { "deckName": "黒黄モリア", "usageRate": 9.5, "winCount": 4 },
+      { "deckName": "黒イム", "usageRate": 8.3, "winCount": 3 },
+      { "deckName": "黒ティーチ", "usageRate": 7.1, "winCount": 3 },
+      { "deckName": "黄カルガラ", "usageRate": 5.2, "winCount": 2 }
+    ]
+  }
+]

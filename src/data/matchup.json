@@ -1,0 +1,23 @@
+[
+  { "deck1": "空島ルフィ", "deck2": "紫エネル", "winRate": 55, "sampleSize": 30 },
+  { "deck1": "空島ルフィ", "deck2": "赤青ルーシー", "winRate": 60, "sampleSize": 25 },
+  { "deck1": "空島ルフィ", "deck2": "黒黄モリア", "winRate": 50, "sampleSize": 15 },
+  { "deck1": "空島ルフィ", "deck2": "黒イム", "winRate": 55, "sampleSize": 12 },
+  { "deck1": "空島ルフィ", "deck2": "黒ティーチ", "winRate": 60, "sampleSize": 10 },
+  { "deck1": "空島ルフィ", "deck2": "緑紫ルフィ", "winRate": 50, "sampleSize": 8 },
+  { "deck1": "紫エネル", "deck2": "赤青ルーシー", "winRate": 50, "sampleSize": 20 },
+  { "deck1": "紫エネル", "deck2": "黒黄モリア", "winRate": 45, "sampleSize": 15 },
+  { "deck1": "紫エネル", "deck2": "黒イム", "winRate": 55, "sampleSize": 12 },
+  { "deck1": "紫エネル", "deck2": "黒ティーチ", "winRate": 55, "sampleSize": 10 },
+  { "deck1": "紫エネル", "deck2": "緑紫ルフィ", "winRate": 50, "sampleSize": 8 },
+  { "deck1": "赤青ルーシー", "deck2": "黒黄モリア", "winRate": 55, "sampleSize": 15 },
+  { "deck1": "赤青ルーシー", "deck2": "黒イム", "winRate": 50, "sampleSize": 12 },
+  { "deck1": "赤青ルーシー", "deck2": "黒ティーチ", "winRate": 55, "sampleSize": 10 },
+  { "deck1": "赤青ルーシー", "deck2": "緑紫ルフィ", "winRate": 45, "sampleSize": 8 },
+  { "deck1": "黒黄モリア", "deck2": "黒イム", "winRate": 50, "sampleSize": 10 },
+  { "deck1": "黒黄モリア", "deck2": "黒ティーチ", "winRate": 55, "sampleSize": 8 },
+  { "deck1": "黒黄モリア", "deck2": "緑紫ルフィ", "winRate": 50, "sampleSize": 6 },
+  { "deck1": "黒イム", "deck2": "黒ティーチ", "winRate": 50, "sampleSize": 8 },
+  { "deck1": "黒イム", "deck2": "緑紫ルフィ", "winRate": 55, "sampleSize": 6 },
+  { "deck1": "黒ティーチ", "deck2": "緑紫ルフィ", "winRate": 45, "sampleSize": 6 }
+]

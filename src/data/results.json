@@ -1,0 +1,141 @@
+[
+  {
+    "id": "20260401-01",
+    "date": "2026-04-01",
+    "eventType": "store",
+    "storeName": "町のトレカ屋さん",
+    "region": "東京",
+    "placement": 1,
+    "deckName": "むらさきエネル",
+    "playerName": "見習いシェフ"
+  },
+  {
+    "id": "20260401-02",
+    "date": "2026-04-01",
+    "eventType": "flagship",
+    "storeName": "フラッグシップバトル",
+    "region": "東京",
+    "placement": 1,
+    "deckName": "緑ミホーク",
+    "playerName": "タニー"
+  },
+  {
+    "id": "20260331-01",
+    "date": "2026-03-31",
+    "eventType": "store",
+    "storeName": "カードボックス横浜西口店",
+    "region": "神奈川",
+    "placement": 1,
+    "deckName": "空島ルフィ",
+    "playerName": null
+  },
+  {
+    "id": "20260331-02",
+    "date": "2026-03-31",
+    "eventType": "store",
+    "storeName": "TCGショップ秋葉原",
+    "region": "東京",
+    "placement": 1,
+    "deckName": "紫エネル",
+    "playerName": null
+  },
+  {
+    "id": "20260330-01",
+    "date": "2026-03-30",
+    "eventType": "store",
+    "region": "大阪",
+    "placement": 1,
+    "deckName": "赤青ルーシー",
+    "playerName": null
+  },
+  {
+    "id": "20260330-02",
+    "date": "2026-03-30",
+    "eventType": "store",
+    "region": "名古屋",
+    "placement": 1,
+    "deckName": "黒黄モリア",
+    "playerName": null
+  },
+  {
+    "id": "20260329-01",
+    "date": "2026-03-29",
+    "eventType": "store",
+    "region": "福岡",
+    "placement": 1,
+    "deckName": "空島ルフィ",
+    "playerName": null
+  },
+  {
+    "id": "20260329-02",
+    "date": "2026-03-29",
+    "eventType": "flagship",
+    "region": "東京",
+    "placement": 1,
+    "deckName": "紫エネル",
+    "playerName": null
+  },
+  {
+    "id": "20260328-01",
+    "date": "2026-03-28",
+    "eventType": "store",
+    "region": "東京",
+    "placement": 1,
+    "deckName": "黒イム",
+    "playerName": null
+  },
+  {
+    "id": "20260328-02",
+    "date": "2026-03-28",
+    "eventType": "store",
+    "region": "大阪",
+    "placement": 1,
+    "deckName": "赤青ルーシー",
+    "playerName": null
+  },
+  {
+    "id": "20260327-01",
+    "date": "2026-03-27",
+    "eventType": "store",
+    "region": "東京",
+    "placement": 1,
+    "deckName": "空島ルフィ",
+    "playerName": null
+  },
+  {
+    "id": "20260327-02",
+    "date": "2026-03-27",
+    "eventType": "store",
+    "region": "名古屋",
+    "placement": 1,
+    "deckName": "紫エネル",
+    "playerName": null
+  },
+  {
+    "id": "20260326-01",
+    "date": "2026-03-26",
+    "eventType": "store",
+    "region": "大阪",
+    "placement": 1,
+    "deckName": "黒ティーチ",
+    "playerName": null
+  },
+  {
+    "id": "20260326-02",
+    "date": "2026-03-26",
+    "eventType": "store",
+    "region": "東京",
+    "placement": 1,
+    "deckName": "緑紫ルフィ",
+    "playerName": null
+  },
+  {
+    "id": "20260325-01",
+    "date": "2026-03-25",
+    "eventType": "store",
+    "region": "福岡",
+    "placement": 1,
+    "deckName": "空島ルフィ",
+    "playerName": null
+  }
+]
