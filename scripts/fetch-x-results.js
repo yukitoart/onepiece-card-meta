@@ -35,6 +35,16 @@ const SEARCH_QUERIES = [
   '"ONEPIECEカードゲーム" "優勝" -is:retweet',
   '"ワンピースカード" "店舗予選" "優勝" -is:retweet',
   '"ワンピースカード" "フラッグシップ" "優勝" -is:retweet',
+  // デッキ名直接検索（プレイヤー投稿を拾う）
+  '"緑紫ルフィ" "優勝" -is:retweet',
+  '"紫エネル" "店舗予選" "優勝" -is:retweet',
+  '"赤青ルーシー" "店舗予選" "優勝" -is:retweet',
+  '"空島ルフィ" "優勝" -is:retweet',
+  '"黒ティーチ" "優勝" -is:retweet',
+  '"緑ミホーク" "優勝" -is:retweet',
+  '"黒イム" "優勝" -is:retweet',
+  '"赤黒サボ" "優勝" -is:retweet',
+  '"青黄ナミ" "優勝" -is:retweet',
 ];
 
 // デッキ名の正規化マップ

@@ -41,6 +41,17 @@
     "source": "https://x.com/i/status/2039621782605562334"
   },
   {
+    "id": "20260402-x2519",
+    "date": "2026-04-02",
+    "eventType": "store",
+    "storeName": null,
+    "region": null,
+    "placement": 1,
+    "deckName": "赤緑クリーク",
+    "playerName": null,
+    "source": "https://x.com/i/status/2039649820101472519"
+  },
+  {
     "id": "20260402-x3117",
     "date": "2026-04-02",
     "eventType": "store",
@@ -50,6 +61,17 @@
     "deckName": "虹ルフィ",
     "playerName": "ニセ",
     "source": "https://x.com/i/status/2039601425060393117"
+  },
+  {
+    "id": "20260402-x4497",
+    "date": "2026-04-02",
+    "eventType": "store",
+    "storeName": null,
+    "region": null,
+    "placement": 1,
+    "deckName": "緑紫ルフィ",
+    "playerName": "【さいとーP】さんの",
+    "source": "https://x.com/i/status/2039628471673184497"
   },
   {
     "id": "20260402-x5256",
@@ -74,6 +96,17 @@
     "source": "https://x.com/i/status/2039604799973515763"
   },
   {
+    "id": "20260402-x7202",
+    "date": "2026-04-02",
+    "eventType": "championship",
+    "storeName": "ワンピースカードゲーム",
+    "region": null,
+    "placement": 1,
+    "deckName": "紫エネル",
+    "playerName": "紫エネル』デッキを使用した",
+    "source": "https://x.com/i/status/2039657108715737202"
+  },
+  {
     "id": "20260402-x7426",
     "date": "2026-04-02",
     "eventType": "store",
@@ -94,6 +127,17 @@
     "deckName": "紫エネル",
     "playerName": "kazu』様です",
     "source": "https://x.com/i/status/2039632651678867528"
+  },
+  {
+    "id": "20260402-x8054",
+    "date": "2026-04-02",
+    "eventType": "store",
+    "storeName": "ワンピースカード",
+    "region": null,
+    "placement": 1,
+    "deckName": "緑紫ルフィ",
+    "playerName": "しろ選手です",
+    "source": "https://x.com/i/status/2039653176425718054"
   },
   {
     "id": "20260402-x8234",
@@ -232,6 +276,17 @@
     "source": "https://x.com/i/status/2039428995402592660"
   },
   {
+    "id": "20260401-x2988",
+    "date": "2026-04-01",
+    "eventType": "store",
+    "storeName": "福福トレカ秋葉原店",
+    "region": null,
+    "placement": 1,
+    "deckName": "緑紫ルフィ",
+    "playerName": "ふるっぱー",
+    "source": "https://x.com/i/status/2039277696522612988"
+  },
+  {
     "id": "20260401-x3732",
     "date": "2026-04-01",
     "eventType": "championship",
@@ -298,6 +353,17 @@
     "source": "https://x.com/i/status/2039328420505735378"
   },
   {
+    "id": "20260401-x6601",
+    "date": "2026-04-01",
+    "eventType": "store",
+    "storeName": null,
+    "region": null,
+    "placement": 1,
+    "deckName": "緑紫ルフィ",
+    "playerName": "しげさんです！",
+    "source": "https://x.com/i/status/2039299545176416601"
+  },
+  {
     "id": "20260401-x7043",
     "date": "2026-04-01",
     "eventType": "championship",
@@ -329,6 +395,17 @@
     "deckName": "緑ボニー",
     "playerName": null,
     "source": "https://x.com/i/status/2039369204475027894"
+  },
+  {
+    "id": "20260401-x8495",
+    "date": "2026-04-01",
+    "eventType": "store",
+    "storeName": "ワンピースカード",
+    "region": null,
+    "placement": 1,
+    "deckName": "緑紫ルフィ",
+    "playerName": "Nino. さんの",
+    "source": "https://x.com/i/status/2039310001211408495"
   },
   {
     "id": "20260401-x9588",
@@ -584,6 +661,17 @@
     "deckName": "緑ミホーク",
     "playerName": null,
     "source": "https://x.com/i/status/2038665473064329665"
+  },
+  {
+    "id": "20260330-x9959",
+    "date": "2026-03-30",
+    "eventType": "store",
+    "storeName": null,
+    "region": null,
+    "placement": 1,
+    "deckName": "緑紫ルフィ",
+    "playerName": null,
+    "source": "https://x.com/i/status/2038609047537299959"
   },
   {
     "id": "20260329-01",
