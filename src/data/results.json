@@ -17,7 +17,7 @@
     "region": null,
     "placement": 1,
     "deckName": "紫エネル",
-    "playerName": "ʞ"
+    "playerName": null
   },
   {
     "id": "20260402-03",
@@ -30,13 +30,101 @@
     "playerName": "みどりこんにゃく"
   },
   {
+    "id": "20260402-x2334",
+    "date": "2026-04-02",
+    "eventType": "championship",
+    "storeName": "ワンピカード",
+    "region": null,
+    "placement": 1,
+    "deckName": "紫エネル",
+    "playerName": null,
+    "source": "https://x.com/i/status/2039621782605562334"
+  },
+  {
+    "id": "20260402-x3117",
+    "date": "2026-04-02",
+    "eventType": "store",
+    "storeName": null,
+    "region": null,
+    "placement": 1,
+    "deckName": "虹ルフィ",
+    "playerName": "ニセ",
+    "source": "https://x.com/i/status/2039601425060393117"
+  },
+  {
+    "id": "20260402-x5256",
+    "date": "2026-04-02",
+    "eventType": "store",
+    "storeName": "ワンピースカードゲーム",
+    "region": null,
+    "placement": 1,
+    "deckName": "赤黒サボ",
+    "playerName": "みどりこんにゃく様です",
+    "source": "https://x.com/i/status/2039600710577455256"
+  },
+  {
+    "id": "20260402-x5763",
+    "date": "2026-04-02",
+    "eventType": "championship",
+    "storeName": "ワンピースカード",
+    "region": null,
+    "placement": 1,
+    "deckName": "青黄ナミ",
+    "playerName": "【ちゃんこ】さ",
+    "source": "https://x.com/i/status/2039604799973515763"
+  },
+  {
+    "id": "20260402-x7426",
+    "date": "2026-04-02",
+    "eventType": "store",
+    "storeName": "ONEPIECEカードゲーム",
+    "region": null,
+    "placement": 1,
+    "deckName": "紫エネル",
+    "playerName": "も選手』でした",
+    "source": "https://x.com/i/status/2039619755292897426"
+  },
+  {
+    "id": "20260402-x7528",
+    "date": "2026-04-02",
+    "eventType": "championship",
+    "storeName": null,
+    "region": null,
+    "placement": 1,
+    "deckName": "紫エネル",
+    "playerName": "kazu』様です",
+    "source": "https://x.com/i/status/2039632651678867528"
+  },
+  {
+    "id": "20260402-x8234",
+    "date": "2026-04-02",
+    "eventType": "flagship",
+    "storeName": "ONEPIECEカードゲーム",
+    "region": null,
+    "placement": 1,
+    "deckName": "赤青ルーシー",
+    "playerName": null,
+    "source": "https://x.com/i/status/2039629078245118234"
+  },
+  {
+    "id": "20260402-x8302",
+    "date": "2026-04-02",
+    "eventType": "store",
+    "storeName": "ワンピカード",
+    "region": null,
+    "placement": 1,
+    "deckName": "緑紫ルフィ",
+    "playerName": null,
+    "source": "https://x.com/i/status/2039604836946338302"
+  },
+  {
     "id": "20260401-01",
     "date": "2026-04-01",
     "eventType": "store",
     "storeName": "町のトレカ屋さん",
     "region": "東京",
     "placement": 1,
-    "deckName": "むらさきエネル",
+    "deckName": "紫エネル",
     "playerName": "見習いシェフ"
   },
   {
@@ -100,6 +188,160 @@
     "playerName": null
   },
   {
+    "id": "20260401-x0669",
+    "date": "2026-04-01",
+    "eventType": "flagship",
+    "storeName": "ONEPIECEカードゲーム",
+    "region": null,
+    "placement": 1,
+    "deckName": "赤黒サボ",
+    "playerName": null,
+    "source": "https://x.com/i/status/2039312010329100669"
+  },
+  {
+    "id": "20260401-x1843",
+    "date": "2026-04-01",
+    "eventType": "championship",
+    "storeName": "ONEPIECEカードゲーム",
+    "region": null,
+    "placement": 1,
+    "deckName": "緑紫ルフィ",
+    "playerName": "ヤオ兄」さ",
+    "source": "https://x.com/i/status/2039316506933391843"
+  },
+  {
+    "id": "20260401-x2559",
+    "date": "2026-04-01",
+    "eventType": "championship",
+    "storeName": "カードボックス京都店",
+    "region": null,
+    "placement": 1,
+    "deckName": "紫エネル",
+    "playerName": "カギ",
+    "source": "https://x.com/i/status/2039259791798022559"
+  },
+  {
+    "id": "20260401-x2660",
+    "date": "2026-04-01",
+    "eventType": "championship",
+    "storeName": null,
+    "region": null,
+    "placement": 1,
+    "deckName": "緑紫ルフィ",
+    "playerName": null,
+    "source": "https://x.com/i/status/2039428995402592660"
+  },
+  {
+    "id": "20260401-x3732",
+    "date": "2026-04-01",
+    "eventType": "championship",
+    "storeName": "ワンピースカード",
+    "region": null,
+    "placement": 1,
+    "deckName": "青黄ナミ",
+    "playerName": null,
+    "source": "https://x.com/i/status/2039321361907433732"
+  },
+  {
+    "id": "20260401-x3838",
+    "date": "2026-04-01",
+    "eventType": "flagship",
+    "storeName": null,
+    "region": null,
+    "placement": 1,
+    "deckName": "緑ミホーク",
+    "playerName": null,
+    "source": "https://x.com/i/status/2039369988822503838"
+  },
+  {
+    "id": "20260401-x3863",
+    "date": "2026-04-01",
+    "eventType": "store",
+    "storeName": "ワンピースカードゲーム",
+    "region": null,
+    "placement": 1,
+    "deckName": "紫エネル",
+    "playerName": null,
+    "source": "https://x.com/i/status/2039298392543903863"
+  },
+  {
+    "id": "20260401-x3953",
+    "date": "2026-04-01",
+    "eventType": "championship",
+    "storeName": "ワンピースカード",
+    "region": null,
+    "placement": 1,
+    "deckName": "黒ティーチ",
+    "playerName": "たくと さんでした",
+    "source": "https://x.com/i/status/2039319266542153953"
+  },
+  {
+    "id": "20260401-x4547",
+    "date": "2026-04-01",
+    "eventType": "store",
+    "storeName": "ワンピースカードゲーム",
+    "region": null,
+    "placement": 1,
+    "deckName": "アルビダアグロ",
+    "playerName": "だーりょ さんです",
+    "source": "https://x.com/i/status/2039262630989414547"
+  },
+  {
+    "id": "20260401-x5378",
+    "date": "2026-04-01",
+    "eventType": "championship",
+    "storeName": null,
+    "region": null,
+    "placement": 1,
+    "deckName": "紫エネル",
+    "playerName": "紫エネル」を使用した",
+    "source": "https://x.com/i/status/2039328420505735378"
+  },
+  {
+    "id": "20260401-x7043",
+    "date": "2026-04-01",
+    "eventType": "championship",
+    "storeName": "ワンピースカードゲーム",
+    "region": null,
+    "placement": 1,
+    "deckName": "緑紫ルフィ",
+    "playerName": "やまだ",
+    "source": "https://x.com/i/status/2039302031132017043"
+  },
+  {
+    "id": "20260401-x7707",
+    "date": "2026-04-01",
+    "eventType": "store",
+    "storeName": "ONEPIECEカードゲーム",
+    "region": null,
+    "placement": 1,
+    "deckName": "赤黄ボニー",
+    "playerName": null,
+    "source": "https://x.com/i/status/2039285924094517707"
+  },
+  {
+    "id": "20260401-x7894",
+    "date": "2026-04-01",
+    "eventType": "flagship",
+    "storeName": null,
+    "region": null,
+    "placement": 1,
+    "deckName": "緑ボニー",
+    "playerName": null,
+    "source": "https://x.com/i/status/2039369204475027894"
+  },
+  {
+    "id": "20260401-x9588",
+    "date": "2026-04-01",
+    "eventType": "flagship",
+    "storeName": "ワンピースカード",
+    "region": null,
+    "placement": 1,
+    "deckName": "赤黄ボニー",
+    "playerName": null,
+    "source": "https://x.com/i/status/2039258434865119588"
+  },
+  {
     "id": "20260331-01",
     "date": "2026-03-31",
     "eventType": "store",
@@ -150,6 +392,105 @@
     "playerName": null
   },
   {
+    "id": "20260331-x0938",
+    "date": "2026-03-31",
+    "eventType": "flagship",
+    "storeName": null,
+    "region": null,
+    "placement": 1,
+    "deckName": "黒黄モリア",
+    "playerName": null,
+    "source": "https://x.com/i/status/2039003200871870938"
+  },
+  {
+    "id": "20260331-x5316",
+    "date": "2026-03-31",
+    "eventType": "store",
+    "storeName": "ワンピースカードゲーム",
+    "region": null,
+    "placement": 1,
+    "deckName": "赤青ルーシー",
+    "playerName": "高さんです。",
+    "source": "https://x.com/i/status/2038935521062445316"
+  },
+  {
+    "id": "20260331-x6033",
+    "date": "2026-03-31",
+    "eventType": "flagship",
+    "storeName": null,
+    "region": null,
+    "placement": 1,
+    "deckName": "緑ミホーク",
+    "playerName": null,
+    "source": "https://x.com/i/status/2039003669304316033"
+  },
+  {
+    "id": "20260331-x7073",
+    "date": "2026-03-31",
+    "eventType": "store",
+    "storeName": "カードボックスオーサカ店】",
+    "region": null,
+    "placement": 1,
+    "deckName": "黒ティーチ",
+    "playerName": null,
+    "source": "https://x.com/i/status/2038889604078797073"
+  },
+  {
+    "id": "20260331-x7173",
+    "date": "2026-03-31",
+    "eventType": "store",
+    "storeName": null,
+    "region": null,
+    "placement": 1,
+    "deckName": "赤青ルーシー",
+    "playerName": "ちゃそ」さんです",
+    "source": "https://x.com/i/status/2038936332463227173"
+  },
+  {
+    "id": "20260331-x7659",
+    "date": "2026-03-31",
+    "eventType": "store",
+    "storeName": "ワンピースカードゲーム",
+    "region": null,
+    "placement": 1,
+    "deckName": "緑黄しらほし",
+    "playerName": null,
+    "source": "https://x.com/i/status/2038952376988827659"
+  },
+  {
+    "id": "20260331-x9099",
+    "date": "2026-03-31",
+    "eventType": "store",
+    "storeName": "ワンピカード",
+    "region": null,
+    "placement": 1,
+    "deckName": "赤黄ボニー",
+    "playerName": null,
+    "source": "https://x.com/i/status/2038939244581069099"
+  },
+  {
+    "id": "20260331-x9348",
+    "date": "2026-03-31",
+    "eventType": "flagship",
+    "storeName": null,
+    "region": null,
+    "placement": 1,
+    "deckName": "赤黒サボ",
+    "playerName": null,
+    "source": "https://x.com/i/status/2039003040192299348"
+  },
+  {
+    "id": "20260331-x9753",
+    "date": "2026-03-31",
+    "eventType": "flagship",
+    "storeName": null,
+    "region": null,
+    "placement": 1,
+    "deckName": "緑ボニー",
+    "playerName": null,
+    "source": "https://x.com/i/status/2039002860919369753"
+  },
+  {
     "id": "20260330-01",
     "date": "2026-03-30",
     "eventType": "store",
@@ -188,6 +529,61 @@
     "placement": 1,
     "deckName": "紫エネル",
     "playerName": null
+  },
+  {
+    "id": "20260330-x1101",
+    "date": "2026-03-30",
+    "eventType": "store",
+    "storeName": "ワンピースカードゲーム",
+    "region": null,
+    "placement": 1,
+    "deckName": "空島ルフィ",
+    "playerName": "mugi",
+    "source": "https://x.com/i/status/2038526386529571101"
+  },
+  {
+    "id": "20260330-x5200",
+    "date": "2026-03-30",
+    "eventType": "flagship",
+    "storeName": null,
+    "region": null,
+    "placement": 1,
+    "deckName": "赤緑ルフィ",
+    "playerName": null,
+    "source": "https://x.com/i/status/2038559998318625200"
+  },
+  {
+    "id": "20260330-x6669",
+    "date": "2026-03-30",
+    "eventType": "store",
+    "storeName": null,
+    "region": null,
+    "placement": 1,
+    "deckName": "黒ティーチ",
+    "playerName": null,
+    "source": "https://x.com/i/status/2038550730580406669"
+  },
+  {
+    "id": "20260330-x8139",
+    "date": "2026-03-30",
+    "eventType": "flagship",
+    "storeName": "ワンピースカード",
+    "region": null,
+    "placement": 1,
+    "deckName": "赤緑クリーク",
+    "playerName": null,
+    "source": "https://x.com/i/status/2038423210925138139"
+  },
+  {
+    "id": "20260330-x9665",
+    "date": "2026-03-30",
+    "eventType": "flagship",
+    "storeName": null,
+    "region": null,
+    "placement": 1,
+    "deckName": "緑ミホーク",
+    "playerName": null,
+    "source": "https://x.com/i/status/2038665473064329665"
   },
   {
     "id": "20260329-01",
@@ -230,6 +626,160 @@
     "playerName": null
   },
   {
+    "id": "20260329-x1102",
+    "date": "2026-03-29",
+    "eventType": "store",
+    "storeName": "ワンピースカードゲーム",
+    "region": null,
+    "placement": 1,
+    "deckName": "赤青ルーシー",
+    "playerName": "Neal」さんでした！",
+    "source": "https://x.com/i/status/2038176222874841102"
+  },
+  {
+    "id": "20260329-x1478",
+    "date": "2026-03-29",
+    "eventType": "store",
+    "storeName": null,
+    "region": null,
+    "placement": 1,
+    "deckName": "緑ゾロ",
+    "playerName": "全ドンパンチ君",
+    "source": "https://x.com/i/status/2038142240670011478"
+  },
+  {
+    "id": "20260329-x1597",
+    "date": "2026-03-29",
+    "eventType": "store",
+    "storeName": "ワンピースカードゲーム",
+    "region": null,
+    "placement": 1,
+    "deckName": "黒黄ルフィ",
+    "playerName": null,
+    "source": "https://x.com/i/status/2038089131658801597"
+  },
+  {
+    "id": "20260329-x1855",
+    "date": "2026-03-29",
+    "eventType": "flagship",
+    "storeName": "ワンピカード",
+    "region": null,
+    "placement": 1,
+    "deckName": "黒ティーチ",
+    "playerName": null,
+    "source": "https://x.com/i/status/2038152771648831855"
+  },
+  {
+    "id": "20260329-x2287",
+    "date": "2026-03-29",
+    "eventType": "store",
+    "storeName": "ワンピースカードゲーム",
+    "region": null,
+    "placement": 1,
+    "deckName": "黄カルガラ",
+    "playerName": null,
+    "source": "https://x.com/i/status/2038190170290442287"
+  },
+  {
+    "id": "20260329-x2620",
+    "date": "2026-03-29",
+    "eventType": "store",
+    "storeName": "ワンピースカードゲーム",
+    "region": null,
+    "placement": 1,
+    "deckName": "赤紫ロジャー",
+    "playerName": "チョコ さ",
+    "source": "https://x.com/i/status/2038113774998282620"
+  },
+  {
+    "id": "20260329-x3115",
+    "date": "2026-03-29",
+    "eventType": "store",
+    "storeName": "ワンピースカードゲーム",
+    "region": null,
+    "placement": 1,
+    "deckName": "赤青ルーシー",
+    "playerName": "チョビ』さん",
+    "source": "https://x.com/i/status/2038153912650523115"
+  },
+  {
+    "id": "20260329-x5301",
+    "date": "2026-03-29",
+    "eventType": "store",
+    "storeName": "ワンピースカードゲーム",
+    "region": null,
+    "placement": 1,
+    "deckName": "赤青ルーシー",
+    "playerName": "とーるもん選手",
+    "source": "https://x.com/i/status/2038210468482015301"
+  },
+  {
+    "id": "20260329-x6553",
+    "date": "2026-03-29",
+    "eventType": "store",
+    "storeName": null,
+    "region": null,
+    "placement": 1,
+    "deckName": "赤紫ロジャー",
+    "playerName": "もんましゅんさ",
+    "source": "https://x.com/i/status/2038097156591206553"
+  },
+  {
+    "id": "20260329-x6981",
+    "date": "2026-03-29",
+    "eventType": "store",
+    "storeName": "ワンピースカード",
+    "region": null,
+    "placement": 1,
+    "deckName": "黒イム",
+    "playerName": "Erumoa",
+    "source": "https://x.com/i/status/2038215244749606981"
+  },
+  {
+    "id": "20260329-x7333",
+    "date": "2026-03-29",
+    "eventType": "championship",
+    "storeName": "ワンピースカードゲーム",
+    "region": null,
+    "placement": 1,
+    "deckName": "赤黄ボニー",
+    "playerName": "ふじゅもさん",
+    "source": "https://x.com/i/status/2038134419480027333"
+  },
+  {
+    "id": "20260329-x8003",
+    "date": "2026-03-29",
+    "eventType": "store",
+    "storeName": "気仙沼店",
+    "region": null,
+    "placement": 1,
+    "deckName": "赤紫ロジャー",
+    "playerName": "クマガイさん、使用デッキは",
+    "source": "https://x.com/i/status/2038097382752338003"
+  },
+  {
+    "id": "20260329-x8165",
+    "date": "2026-03-29",
+    "eventType": "store",
+    "storeName": "ワンピースカード",
+    "region": null,
+    "placement": 1,
+    "deckName": "PYクロコダイル",
+    "playerName": "ハセ　さんでした",
+    "source": "https://x.com/i/status/2038098660790358165"
+  },
+  {
+    "id": "20260329-x9274",
+    "date": "2026-03-29",
+    "eventType": "flagship",
+    "storeName": "ワンピースカードゲーム",
+    "region": null,
+    "placement": 1,
+    "deckName": "黒イム",
+    "playerName": null,
+    "source": "https://x.com/i/status/2038170565337559274"
+  },
+  {
     "id": "20260328-01",
     "date": "2026-03-28",
     "eventType": "store",
@@ -270,6 +820,138 @@
     "playerName": null
   },
   {
+    "id": "20260328-x0674",
+    "date": "2026-03-28",
+    "eventType": "flagship",
+    "storeName": "ONEPIECEカードゲーム",
+    "region": null,
+    "placement": 1,
+    "deckName": "黄エネル",
+    "playerName": null,
+    "source": "https://x.com/i/status/2037862475593650674"
+  },
+  {
+    "id": "20260328-x2397",
+    "date": "2026-03-28",
+    "eventType": "store",
+    "storeName": null,
+    "region": null,
+    "placement": 1,
+    "deckName": "紫エネル",
+    "playerName": null,
+    "source": "https://x.com/i/status/2037830666377982397"
+  },
+  {
+    "id": "20260328-x3396",
+    "date": "2026-03-28",
+    "eventType": "store",
+    "storeName": "ワンピースカードゲーム",
+    "region": null,
+    "placement": 1,
+    "deckName": "赤緑クリーク",
+    "playerName": "さとー選手",
+    "source": "https://x.com/i/status/2037750247456383396"
+  },
+  {
+    "id": "20260328-x3625",
+    "date": "2026-03-28",
+    "eventType": "store",
+    "storeName": "ワンピースカードゲーム",
+    "region": null,
+    "placement": 1,
+    "deckName": "紫エネル",
+    "playerName": "ふかじゅん　さん",
+    "source": "https://x.com/i/status/2037798196999823625"
+  },
+  {
+    "id": "20260328-x3835",
+    "date": "2026-03-28",
+    "eventType": "store",
+    "storeName": "ワンピースカードゲーム",
+    "region": null,
+    "placement": 1,
+    "deckName": "緑ミホーク",
+    "playerName": null,
+    "source": "https://x.com/i/status/2037856569510293835"
+  },
+  {
+    "id": "20260328-x4638",
+    "date": "2026-03-28",
+    "eventType": "flagship",
+    "storeName": "ワンピースカードゲーム",
+    "region": null,
+    "placement": 1,
+    "deckName": "紫エネル",
+    "playerName": null,
+    "source": "https://x.com/i/status/2037869887738294638"
+  },
+  {
+    "id": "20260328-x5129",
+    "date": "2026-03-28",
+    "eventType": "store",
+    "storeName": "ワンピースカードゲーム",
+    "region": null,
+    "placement": 1,
+    "deckName": "紫エネル",
+    "playerName": "わも」さ",
+    "source": "https://x.com/i/status/2037823570550915129"
+  },
+  {
+    "id": "20260328-x5687",
+    "date": "2026-03-28",
+    "eventType": "store",
+    "storeName": "ワンピースカードゲーム",
+    "region": null,
+    "placement": 1,
+    "deckName": "赤緑クリーク",
+    "playerName": null,
+    "source": "https://x.com/i/status/2037790328099655687"
+  },
+  {
+    "id": "20260328-x8056",
+    "date": "2026-03-28",
+    "eventType": "store",
+    "storeName": "ワンピカード",
+    "region": null,
+    "placement": 1,
+    "deckName": "空島ルフィ",
+    "playerName": "めいぷるさんでした！",
+    "source": "https://x.com/i/status/2037830136079528056"
+  },
+  {
+    "id": "20260328-x8101",
+    "date": "2026-03-28",
+    "eventType": "flagship",
+    "storeName": "ワンピースカードゲーム",
+    "region": null,
+    "placement": 1,
+    "deckName": "赤緑ルフィ",
+    "playerName": null,
+    "source": "https://x.com/i/status/2037777639059198101"
+  },
+  {
+    "id": "20260328-x9909",
+    "date": "2026-03-28",
+    "eventType": "store",
+    "storeName": "ワンピカード",
+    "region": null,
+    "placement": 1,
+    "deckName": "黒ティーチ",
+    "playerName": "真春」さんです",
+    "source": "https://x.com/i/status/2037838866586189909"
+  },
+  {
+    "id": "20260328-x9989",
+    "date": "2026-03-28",
+    "eventType": "store",
+    "storeName": "ワンピカード",
+    "region": null,
+    "placement": 1,
+    "deckName": "黄カルガラ",
+    "playerName": null,
+    "source": "https://x.com/i/status/2037768315633049989"
+  },
+  {
     "id": "20260327-01",
     "date": "2026-03-27",
     "eventType": "store",
@@ -298,6 +980,50 @@
     "placement": 1,
     "deckName": "黒黄モリア",
     "playerName": null
+  },
+  {
+    "id": "20260327-x2944",
+    "date": "2026-03-27",
+    "eventType": "flagship",
+    "storeName": "ONEPIECEカードゲーム",
+    "region": null,
+    "placement": 1,
+    "deckName": "黒イム",
+    "playerName": null,
+    "source": "https://x.com/i/status/2037454667979132944"
+  },
+  {
+    "id": "20260327-x4080",
+    "date": "2026-03-27",
+    "eventType": "flagship",
+    "storeName": "ワンピカード",
+    "region": null,
+    "placement": 1,
+    "deckName": "黒イム",
+    "playerName": "HN:タクト様です",
+    "source": "https://x.com/i/status/2037467266930164080"
+  },
+  {
+    "id": "20260327-x5514",
+    "date": "2026-03-27",
+    "eventType": "store",
+    "storeName": null,
+    "region": null,
+    "placement": 1,
+    "deckName": "赤シャンクス",
+    "playerName": null,
+    "source": "https://x.com/i/status/2037500666097385514"
+  },
+  {
+    "id": "20260327-x6714",
+    "date": "2026-03-27",
+    "eventType": "store",
+    "storeName": "ワンピースカードゲーム",
+    "region": null,
+    "placement": 1,
+    "deckName": "青黄ナミ",
+    "playerName": null,
+    "source": "https://x.com/i/status/2037500818367336714"
   },
   {
     "id": "20260326-01",
