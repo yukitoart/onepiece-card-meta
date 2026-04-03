@@ -88,17 +88,6 @@
     "source": "https://x.com/i/status/2039975222577877448"
   },
   {
-    "id": "20260403-x8149",
-    "date": "2026-04-03",
-    "eventType": "store",
-    "storeName": "ワンピースカードゲーム",
-    "region": null,
-    "placement": 1,
-    "deckName": "ルフィ",
-    "playerName": null,
-    "source": "https://x.com/i/status/2039969654257668149"
-  },
-  {
     "id": "20260403-x8959",
     "date": "2026-04-03",
     "eventType": "championship",
@@ -283,17 +272,6 @@
     "source": "https://x.com/i/status/2039604799973515763"
   },
   {
-    "id": "20260402-x6782",
-    "date": "2026-04-02",
-    "eventType": "store",
-    "storeName": "ワンピースカードゲーム",
-    "region": null,
-    "placement": 1,
-    "deckName": "ミホーク",
-    "playerName": null,
-    "source": "https://x.com/i/status/2039676013219856782"
-  },
-  {
     "id": "20260402-x7056",
     "date": "2026-04-02",
     "eventType": "championship",
@@ -347,17 +325,6 @@
     "deckName": "緑紫ルフィ",
     "playerName": "しろ選手です",
     "source": "https://x.com/i/status/2039653176425718054"
-  },
-  {
-    "id": "20260402-x8154",
-    "date": "2026-04-02",
-    "eventType": "store",
-    "storeName": "ワンピースカードゲーム",
-    "region": null,
-    "placement": 1,
-    "deckName": "黒コダイルデッキ",
-    "playerName": null,
-    "source": "https://x.com/i/status/2039667715678548154"
   },
   {
     "id": "20260402-x8234",
