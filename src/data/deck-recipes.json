@@ -51,9 +51,70 @@
       { "cardId": "OP15-108", "name": "ナミ", "cost": 1, "power": 2000, "count": 4, "category": "character" },
       { "cardId": "OP15-109", "name": "ニコ・ロビン", "cost": 7, "power": 7000, "count": 4, "category": "character" },
       { "cardId": "OP15-113", "name": "ロロノア・ゾロ", "cost": 7, "power": 8000, "count": 4, "category": "character" },
-      { "cardId": "OP15-108", "name": "ワイパー", "cost": 5, "power": 6000, "count": 4, "category": "character" },
+      { "cardId": "OP15-112", "name": "ワイパー", "cost": 5, "power": 6000, "count": 4, "category": "character" },
       { "cardId": "OP15-115", "name": "ゴムゴムの黄金回転弾", "cost": 1, "power": null, "count": 4, "category": "event" },
       { "cardId": "OP15-116", "name": "ウソップ", "cost": 0, "power": null, "count": 4, "category": "character" }
+    ],
+    "totalCards": 50
+  },
+  {
+    "id": "recipe-20260330-nami",
+    "date": "2026-03-30",
+    "source": "https://pbs.twimg.com/media/HEqVHH2bwAASCDF.jpg",
+    "deckType": "青黄ナミ",
+    "eventType": "チャンピオンシップ",
+    "playerName": null,
+    "leader": {
+      "cardId": "EB03-046",
+      "name": "ナミ",
+      "count": 1
+    },
+    "mainDeck": [
+      { "cardId": "OP06-104", "name": "錦えもん", "cost": 4, "power": 6000, "count": 3, "category": "character" },
+      { "cardId": "OP07-115", "name": "助けてクエーサー!!!", "cost": 1, "power": null, "count": 3, "category": "event" },
+      { "cardId": "OP06-106", "name": "光月日和", "cost": 2, "power": null, "count": 4, "category": "character" },
+      { "cardId": "OP11-106", "name": "ゼウス", "cost": 2, "power": 2000, "count": 4, "category": "character" },
+      { "cardId": "P-096", "name": "少女", "cost": 2, "power": null, "count": 4, "category": "character" },
+      { "cardId": "PRB02-008", "name": "マルコ", "cost": 4, "power": 6000, "count": 1, "category": "character" },
+      { "cardId": "OP13-042", "name": "エドワード・ニューゲート", "cost": 10, "power": 12000, "count": 3, "category": "character" },
+      { "cardId": "EB03-053", "name": "ナミ", "cost": 5, "power": 6000, "count": 4, "category": "character" },
+      { "cardId": "EB03-055", "name": "ニコ・ロビン", "cost": 7, "power": 8000, "count": 4, "category": "character" },
+      { "cardId": "EB03-060", "name": "私のしもべになる?", "cost": 1, "power": null, "count": 2, "category": "event" },
+      { "cardId": "OP14-102", "name": "クマシー", "cost": 3, "power": 2000, "count": 3, "category": "character" },
+      { "cardId": "OP14-104", "name": "ゲッコー・モリア", "cost": 3, "power": 10000, "count": 3, "category": "character" },
+      { "cardId": "OP14-110", "name": "ドクトル・ホグバック", "cost": 3, "power": 5000, "count": 4, "category": "character" },
+      { "cardId": "OP14-111", "name": "ペローナ", "cost": 3, "power": 5000, "count": 4, "category": "character" },
+      { "cardId": "EB04-058", "name": "ボルサリーノ", "cost": 5, "power": 6000, "count": 4, "category": "character" }
+    ],
+    "totalCards": 50
+  },
+  {
+    "id": "recipe-20260330-hancock",
+    "date": "2026-03-30",
+    "source": "https://pbs.twimg.com/media/HEqVHIHa4AAAavy.jpg",
+    "deckType": "青黄ハンコック",
+    "eventType": "チャンピオンシップ",
+    "playerName": null,
+    "leader": {
+      "cardId": "OP14-001",
+      "name": "ボア・ハンコック",
+      "count": 1
+    },
+    "mainDeck": [
+      { "cardId": "OP06-047", "name": "シャーロット・プリン", "cost": 4, "power": 4000, "count": 3, "category": "character" },
+      { "cardId": "OP06-106", "name": "光月日和", "cost": 2, "power": null, "count": 4, "category": "character" },
+      { "cardId": "OP07-057", "name": "芳郎", "cost": 4, "power": null, "count": 1, "category": "character" },
+      { "cardId": "OP07-115", "name": "助けてクエーサー!!!", "cost": 1, "power": null, "count": 4, "category": "event" },
+      { "cardId": "ST17-004", "name": "ボア・ハンコック", "cost": 1, "power": null, "count": 4, "category": "character" },
+      { "cardId": "OP12-119", "name": "白亜舞", "cost": 5, "power": 7000, "count": 4, "category": "character" },
+      { "cardId": "EB03-053", "name": "ナミ", "cost": 2, "power": null, "count": 2, "category": "character" },
+      { "cardId": "OP14-103", "name": "グロリオーサ", "cost": 2, "power": null, "count": 4, "category": "character" },
+      { "cardId": "OP14-105", "name": "ゴルゴン三姉妹", "cost": 6, "power": 5000, "count": 4, "category": "character" },
+      { "cardId": "OP14-107", "name": "シャクヤク", "cost": 6, "power": 5000, "count": 4, "category": "character" },
+      { "cardId": "OP14-108", "name": "ボア・ハンコック", "cost": 9, "power": 5000, "count": 4, "category": "character" },
+      { "cardId": "OP14-109", "name": "マーガレット", "cost": 3, "power": 5000, "count": 4, "category": "character" },
+      { "cardId": "OP14-112", "name": "ラン", "cost": 3, "power": 5000, "count": 4, "category": "character" },
+      { "cardId": "EB04-058", "name": "ボルサリーノ", "cost": 5, "power": 6000, "count": 4, "category": "character" }
     ],
     "totalCards": 50
   }
