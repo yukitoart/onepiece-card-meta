@@ -117,5 +117,35 @@
       { "cardId": "EB04-058", "name": "ボルサリーノ", "cost": 5, "power": 6000, "count": 4, "category": "character" }
     ],
     "totalCards": 50
+  },
+  {
+    "id": "recipe-20260404-midori-murasaki-luffy",
+    "date": "2026-04-04",
+    "source": "https://pbs.twimg.com/media/HFB6m6IbYAAolG8.jpg",
+    "deckType": "緑紫ルフィ",
+    "eventType": "チャンピオンシップ",
+    "playerName": null,
+    "leader": {
+      "cardId": "EB02-010",
+      "name": "モンキー・D・ルフィ",
+      "count": 1
+    },
+    "mainDeck": [
+      { "cardId": "EB02-017", "name": "ナミ", "cost": 1, "power": 2000, "count": 4, "category": "character" },
+      { "cardId": "PRB02-012", "name": "ナミ", "cost": 2, "power": 2000, "count": 4, "category": "character" },
+      { "cardId": "ST18-001", "name": "ウソップ", "cost": 3, "power": 3000, "count": 4, "category": "character" },
+      { "cardId": "OP14-031", "name": "ナミ", "cost": 4, "power": 2000, "count": 4, "category": "character" },
+      { "cardId": "ST18-004", "name": "ゾロ十郎", "cost": 4, "power": 6000, "count": 4, "category": "character" },
+      { "cardId": "EB02-035", "name": "サンジ&プリン", "cost": 5, "power": 7000, "count": 4, "category": "character" },
+      { "cardId": "OP07-064", "name": "サンジ", "cost": 5, "power": 6000, "count": 4, "category": "character" },
+      { "cardId": "OP13-118", "name": "モンキー・D・ルフィ", "cost": 6, "power": 7000, "count": 2, "category": "character" },
+      { "cardId": "EB02-061", "name": "モンキー・D・ルフィ", "cost": 6, "power": 7000, "count": 2, "category": "character" },
+      { "cardId": "OP08-036", "name": "エレクトリカルルナ", "cost": 3, "power": null, "count": 4, "category": "event" },
+      { "cardId": "OP13-040", "name": "強ェとわかってんだから…始めから全開だ!!!", "cost": 1, "power": null, "count": 4, "category": "event" },
+      { "cardId": "OP09-078", "name": "ゴムゴムの巨人", "cost": 1, "power": null, "count": 4, "category": "event" },
+      { "cardId": "OP05-076", "name": "海は海賊が相手だ!!!", "cost": 1, "power": null, "count": 2, "category": "event" },
+      { "cardId": "OP15-078", "name": "万能", "cost": 0, "power": null, "count": 4, "category": "event" }
+    ],
+    "totalCards": 50
   }
 ]
