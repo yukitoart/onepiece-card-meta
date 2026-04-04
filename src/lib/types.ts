@@ -43,6 +43,33 @@ export type MetaWeekly = {
   }[];
 };
 
+// デッキレシピ カード1枚
+export type DeckCard = {
+  cardId: string;
+  name: string;
+  cost: number | null;
+  power: number | null;
+  count: number;
+  category: "character" | "event" | "stage";
+};
+
+// デッキレシピ
+export type DeckRecipe = {
+  id: string;
+  date: string;
+  source: string;
+  deckType: string;
+  eventType: string;
+  playerName: string | null;
+  leader: {
+    cardId: string;
+    name: string;
+    count: number;
+  };
+  mainDeck: DeckCard[];
+  totalCards: number;
+};
+
 // デッキカラーマッピング
 export const DECK_COLORS: Record<string, string> = {
   "空島ルフィ": "#22c55e", // green-500

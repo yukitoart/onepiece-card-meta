@@ -7,6 +7,7 @@ const navItems = [
   { href: "/meta", label: "メタ推移" },
   { href: "/matchup", label: "相性表" },
   { href: "/results", label: "大会結果" },
+  { href: "/decks", label: "デッキレシピ" },
 ];
 
 export default function Header() {

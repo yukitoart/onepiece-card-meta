@@ -2,7 +2,8 @@ import tierData from "@/data/tier.json";
 import resultsData from "@/data/results.json";
 import matchupData from "@/data/matchup.json";
 import metaWeeklyData from "@/data/meta-weekly.json";
-import type { TierEntry, TournamentResult, MatchupEntry, MetaWeekly } from "./types";
+import deckRecipesData from "@/data/deck-recipes.json";
+import type { TierEntry, TournamentResult, MatchupEntry, MetaWeekly, DeckRecipe } from "./types";
 
 export function getTierList(): TierEntry[] {
   return tierData as TierEntry[];
@@ -20,6 +21,13 @@ export function getMatchups(): MatchupEntry[] {
 
 export function getMetaWeekly(): MetaWeekly[] {
   return metaWeeklyData as MetaWeekly[];
+}
+
+// デッキレシピ取得
+export function getDeckRecipes(): DeckRecipe[] {
+  return (deckRecipesData as DeckRecipe[]).sort(
+    (a, b) => new Date(b.date).getTime() - new Date(a.date).getTime()
+  );
 }
 
 // デッキ別優勝数集計
