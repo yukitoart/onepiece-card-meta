@@ -1,0 +1,60 @@
+[
+  {
+    "id": "recipe-20260404-enel",
+    "date": "2026-04-04",
+    "source": "https://pbs.twimg.com/media/HFCa68JbIAAEqX6.jpg",
+    "deckType": "紫エネル",
+    "eventType": "エクストラグランドバトル",
+    "playerName": "響",
+    "leader": {
+      "cardId": "OP15-058",
+      "name": "エネル",
+      "count": 1
+    },
+    "mainDeck": [
+      { "cardId": "OP15-060", "name": "エネル", "cost": 6, "power": 8000, "count": 4, "category": "character" },
+      { "cardId": "OP15-061", "name": "オーム", "cost": 1, "power": 2000, "count": 4, "category": "character" },
+      { "cardId": "OP15-066", "name": "サトリ", "cost": 1, "power": 2000, "count": 4, "category": "character" },
+      { "cardId": "OP15-067", "name": "シュラ", "cost": 0, "power": 2000, "count": 4, "category": "character" },
+      { "cardId": "OP15-071", "name": "ホーリー", "cost": 3, "power": 4000, "count": 4, "category": "character" },
+      { "cardId": "OP15-118", "name": "ナミ", "cost": 0, "power": null, "count": 4, "category": "character" },
+      { "cardId": "OP12-071", "name": "シャーロット・プリン", "cost": 1, "power": 2000, "count": 4, "category": "character" },
+      { "cardId": "OP15-077", "name": "雷龍", "cost": 0, "power": null, "count": 4, "category": "event" },
+      { "cardId": "OP15-076", "name": "雷獣", "cost": 0, "power": null, "count": 4, "category": "event" },
+      { "cardId": "OP15-075", "name": "神の裁き", "cost": 0, "power": null, "count": 4, "category": "event" },
+      { "cardId": "OP15-078", "name": "万雷", "cost": 0, "power": null, "count": 4, "category": "event" },
+      { "cardId": "OP13-076", "name": "神避", "cost": 0, "power": null, "count": 2, "category": "event" },
+      { "cardId": "OP07-064", "name": "サンジ", "cost": 5, "power": 6000, "count": 4, "category": "character" }
+    ],
+    "totalCards": 50
+  },
+  {
+    "id": "recipe-20260330-sorashima",
+    "date": "2026-03-30",
+    "source": "https://pbs.twimg.com/media/HEqVHIHbQAAei6H.jpg",
+    "deckType": "空島ルフィ",
+    "eventType": "チャンピオンシップ",
+    "playerName": null,
+    "leader": {
+      "cardId": "OP15-001",
+      "name": "ルフィ",
+      "count": 1
+    },
+    "mainDeck": [
+      { "cardId": "OP05-106", "name": "シュラ", "cost": 2, "power": 2000, "count": 4, "category": "character" },
+      { "cardId": "EB02-052", "name": "エネル", "cost": 10, "power": 11000, "count": 2, "category": "character" },
+      { "cardId": "OP11-106", "name": "ゼウス", "cost": 2, "power": 2000, "count": 4, "category": "character" },
+      { "cardId": "OP12-099", "name": "カルガラ", "cost": 5, "power": 6000, "count": 4, "category": "character" },
+      { "cardId": "ST29-009", "name": "ニコ・ロビン", "cost": 4, "power": 2000, "count": 4, "category": "character" },
+      { "cardId": "EB04-058", "name": "ボルサリーノ", "cost": 5, "power": 6000, "count": 4, "category": "character" },
+      { "cardId": "P-120", "name": "サンジ", "cost": 6, "power": 6000, "count": 4, "category": "character" },
+      { "cardId": "OP15-108", "name": "ナミ", "cost": 1, "power": 2000, "count": 4, "category": "character" },
+      { "cardId": "OP15-109", "name": "ニコ・ロビン", "cost": 7, "power": 7000, "count": 4, "category": "character" },
+      { "cardId": "OP15-113", "name": "ロロノア・ゾロ", "cost": 7, "power": 8000, "count": 4, "category": "character" },
+      { "cardId": "OP15-108", "name": "ワイパー", "cost": 5, "power": 6000, "count": 4, "category": "character" },
+      { "cardId": "OP15-115", "name": "ゴムゴムの黄金回転弾", "cost": 1, "power": null, "count": 4, "category": "event" },
+      { "cardId": "OP15-116", "name": "ウソップ", "cost": 0, "power": null, "count": 4, "category": "character" }
+    ],
+    "totalCards": 50
+  }
+]
